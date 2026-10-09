@@ -1,0 +1,6 @@
+{
+  "name": "ElfaClaw Desktop - Local Privacy AI & MCP IDE",
+  "description": "Desktop clone of Claude powered by ElfaClaw Gemma local AI, complete with IDE code editor, Model Context Protocol (MCP) servers, Artifacts, and 100% private local task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
